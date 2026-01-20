@@ -6,6 +6,6 @@ public class LoginTest {
 	@Test
 	void login()
 	{
-		System.out.println("LOGIN****");
+		System.out.println("1234566567890****");
 	}
 }
